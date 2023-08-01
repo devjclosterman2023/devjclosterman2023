@@ -2,7 +2,7 @@
 
 ### Connect with WebMo for all your website needs!
 ![images](https://github.com/devjclosterman2023/devjclosterman2023/assets/138734716/ff64e035-faa6-43c0-8844-c95c7b6e715c)
-[website]: https://www.web-mo.com/
+https://www.web-mo.com/
 
 
 <!--
