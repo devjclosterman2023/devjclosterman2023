@@ -5,7 +5,7 @@
 https://www.web-mo.com/
 
 Check out our Work!
-kjsafhg hjqklsfh lkkl  iowuquqkwl
+
 <!--
 **devjclosterman2023/devjclosterman2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
