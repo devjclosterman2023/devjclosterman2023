@@ -15,7 +15,7 @@ You can see my solution here: https://www.frontendmentor.io/solutions/responsive
 Any suggestions on how I can improve are welcome!
 <!--
 **devjclosterman2023/devjclosterman2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/813620da-1832-4080-a38e-4872dab26c24/deploy-status)](https://app.netlify.com/sites/steady-manatee-79923c/deploys)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
