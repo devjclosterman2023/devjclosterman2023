@@ -13,6 +13,8 @@ I've just completed a front-end coding challenge from @frontendmentor! 🎉
 You can see my solution here: https://www.frontendmentor.io/solutions/responsive-profile-cards-rAqMAOP1Ya
 
 Any suggestions on how I can improve are welcome!
+
+Also check out our full-stack projects/ starter templates!
 <!--
 **devjclosterman2023/devjclosterman2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/813620da-1832-4080-a38e-4872dab26c24/deploy-status)](https://app.netlify.com/sites/steady-manatee-79923c/deploys)
