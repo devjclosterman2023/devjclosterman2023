@@ -8,11 +8,7 @@ Check out our Work!
 
 
 🔭 I’m currently working on ...
-I've just completed a front-end coding challenge from @frontendmentor! 🎉
-
-You can see my solution here: https://www.frontendmentor.io/solutions/responsive-profile-cards-rAqMAOP1Ya
-
-Any suggestions on how I can improve are welcome!
+Various projects ranging from troubleshooting to building new sites! 
 
 Also check out our full-stack projects/ starter templates!
 <!--
