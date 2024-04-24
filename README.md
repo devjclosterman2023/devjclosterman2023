@@ -11,6 +11,8 @@ Check out our Work!
 Various projects ranging from troubleshooting to building new sites! 
 
 Also check out our full-stack projects/ starter templates!
+
+We Are Growing! 
 <!--
 **devjclosterman2023/devjclosterman2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/813620da-1832-4080-a38e-4872dab26c24/deploy-status)](https://app.netlify.com/sites/steady-manatee-79923c/deploys)
